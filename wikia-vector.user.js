@@ -4399,8 +4399,8 @@ svg {\
 /*You can't get rid of good wiki skins that easily, WIKIA!*/\
 ";
 
-document.querySelectorAll('[style]')
-  .forEach(el => el.removeAttribute('style'));
+//document.querySelectorAll('[style]')
+//  .forEach(el => el.removeAttribute('style'));
 
 document.querySelectorAll('link[rel="stylesheet"]')
   .forEach(el => el.parentNode.removeChild(el));
