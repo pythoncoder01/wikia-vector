@@ -8,7 +8,7 @@ This is in ALPHA, by which I mean it is in a barely usable state, so I recommend
 ## How to set up
 1. Get Greasemonkey if you’re using Firefox, or the equivalent for your browser. Greasemonkey can be found at: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 2. Get uBlock Origin or another adblocker. The code does not block ads, and ads will probably mess up the layout, so pick up uBlock Origin at: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-3. Create a new userscript and copy-paste the contents of "wikia-vector.user.js" into the edit window.
+3. Click the "raw" button on the "user.js" and follow the dialogs.
 4. Add the following URLs to the `User Includes` section of `User Script Options` and make sure to tick the `Only use these` box.
 `https://*.wikia.com/*`
 `https://*.fandom.com/*`
