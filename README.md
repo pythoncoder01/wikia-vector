@@ -1,3 +1,6 @@
+This version is outdated. The current alpha version can be found at https://community.wikia.com/wiki/User:Pythoncoder/global.css (CSS) and https://community.wikia.com/wiki/User:Pythoncoder/global.js (optional JavaScript for advanced compatibility).
+
+Original description:
 # wikia-vector
 Adds Vector skin support to Wikia. Requires Greasemonkey. 
 
